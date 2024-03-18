@@ -6,7 +6,7 @@ export const channels = [
     country: "USA",
     provider: 7427,
     logo:
-      "https://raw.githubusercontent.com/karolkozer/planby-demo-resources/master/resources/channel-logos/png/r-channel.png",
+      "https://raw.githubusercontent.com/andremxmx/VUE_EPG/master/logos/channel-logos/png/r-channel.png",
     year: 2002
   },
   {
@@ -16,7 +16,7 @@ export const channels = [
     country: "USA",
     provider: 2764,
     logo:
-      "https://raw.githubusercontent.com/karolkozer/planby-demo-resources/master/resources/channel-logos/png/b-channel.png",
+      "https://raw.githubusercontent.com/andremxmx/VUE_EPG/master/logos/channel-logos/png/b-channel.png",
     year: 2002
   },
   {
@@ -26,7 +26,7 @@ export const channels = [
     country: "USA",
     provider: 9749,
     logo:
-      "https://raw.githubusercontent.com/karolkozer/planby-demo-resources/master/resources/channel-logos/png/five-channel.png",
+      "https://raw.githubusercontent.com/andremxmx/VUE_EPG/master/logos/channel-logos/png/five-channel.png",
     year: 2002
   },
   {
@@ -36,7 +36,7 @@ export const channels = [
     country: "USA",
     provider: 5066,
     logo:
-      "https://raw.githubusercontent.com/karolkozer/planby-demo-resources/master/resources/channel-logos/png/c-channel.png",
+      "https://raw.githubusercontent.com/andremxmx/VUE_EPG/master/logos/channel-logos/png/c-channel.png",
     year: 2002
   },
   {
@@ -46,7 +46,7 @@ export const channels = [
     country: "USA",
     provider: 5380,
     logo:
-      "https://raw.githubusercontent.com/karolkozer/planby-demo-resources/master/resources/channel-logos/png/tm-channel.png",
+      "https://raw.githubusercontent.com/andremxmx/VUE_EPG/master/logos/channel-logos/png/tm-channel.png",
     year: 2002
   },
   {
@@ -56,7 +56,7 @@ export const channels = [
     country: "USA",
     provider: 5380,
     logo:
-      "https://raw.githubusercontent.com/karolkozer/planby-demo-resources/master/resources/channel-logos/png/w-channel.png",
+      "https://raw.githubusercontent.com/andremxmx/VUE_EPG/master/logos/channel-logos/png/w-channel.png",
     year: 2002
   },
   {
@@ -66,7 +66,7 @@ export const channels = [
     country: "USA",
     provider: 703,
     logo:
-      "https://raw.githubusercontent.com/karolkozer/planby-demo-resources/master/resources/channel-logos/png/six-channel.png",
+      "https://raw.githubusercontent.com/andremxmx/VUE_EPG/master/logos/channel-logos/png/six-channel.png",
     year: 2002
   },
   {
@@ -76,7 +76,7 @@ export const channels = [
     country: "USA",
     provider: 8851,
     logo:
-      "https://raw.githubusercontent.com/karolkozer/planby-demo-resources/master/resources/channel-logos/png/nfi-channel.png",
+      "https://raw.githubusercontent.com/andremxmx/VUE_EPG/master/logos/channel-logos/png/nfi-channel.png",
     year: 2002
   },
   {
@@ -86,7 +86,7 @@ export const channels = [
     country: "USA",
     provider: 4447,
     logo:
-      "https://raw.githubusercontent.com/karolkozer/planby-demo-resources/master/resources/channel-logos/png/dragon-channel.png",
+      "https://raw.githubusercontent.com/andremxmx/VUE_EPG/master/logos/channel-logos/png/dragon-channel.png",
     year: 2002
   },
   {
@@ -96,7 +96,7 @@ export const channels = [
     country: "USA",
     provider: 5380,
     logo:
-      "https://raw.githubusercontent.com/karolkozer/planby-demo-resources/master/resources/channel-logos/png/cd-channel.png",
+      "https://raw.githubusercontent.com/andremxmx/VUE_EPG/master/logos/channel-logos/png/cd-channel.png",
     year: 2002
   },
   {
@@ -106,7 +106,7 @@ export const channels = [
     country: "USA",
     provider: 563,
     logo:
-      "https://github.com/karolkozer/planby-demo-resources/blob/master/resources/channel-logos/png/tennis-ball-channel.png?raw=true",
+      "https://github.com/andremxmx/VUE_EPG/blob/master/logos/channel-logos/png/tennis-ball-channel.png?raw=true",
     year: 2002
   },
   {
@@ -116,7 +116,7 @@ export const channels = [
     country: "USA",
     provider: 5380,
     logo:
-      "https://raw.githubusercontent.com/karolkozer/planby-demo-resources/master/resources/channel-logos/png/bowling-channel.png",
+      "https://raw.githubusercontent.com/andremxmx/VUE_EPG/master/logos/channel-logos/png/bowling-channel.png",
     year: 2002
   },
   {
@@ -126,7 +126,7 @@ export const channels = [
     country: "USA",
     provider: 5380,
     logo:
-      "https://raw.githubusercontent.com/karolkozer/planby-demo-resources/master/resources/channel-logos/png/movie-channel.png",
+      "https://raw.githubusercontent.com/andremxmx/VUE_EPG/master/logos/channel-logos/png/movie-channel.png",
     year: 2002
   },
   {
@@ -136,7 +136,7 @@ export const channels = [
     country: "USA",
     provider: 7427,
     logo:
-      "https://raw.githubusercontent.com/karolkozer/planby-demo-resources/master/resources/channel-logos/png/r-channel.png",
+      "https://raw.githubusercontent.com/andremxmx/VUE_EPG/master/logos/channel-logos/png/r-channel.png",
     year: 2002
   },
   {
@@ -146,7 +146,7 @@ export const channels = [
     country: "USA",
     provider: 2764,
     logo:
-      "https://raw.githubusercontent.com/karolkozer/planby-demo-resources/master/resources/channel-logos/png/b-channel.png",
+      "https://raw.githubusercontent.com/andremxmx/VUE_EPG/master/logos/channel-logos/png/b-channel.png",
     year: 2002
   },
   {
@@ -156,7 +156,7 @@ export const channels = [
     country: "USA",
     provider: 9749,
     logo:
-      "https://raw.githubusercontent.com/karolkozer/planby-demo-resources/master/resources/channel-logos/png/five-channel.png",
+      "https://raw.githubusercontent.com/andremxmx/VUE_EPG/master/logos/channel-logos/png/five-channel.png",
     year: 2002
   },
   {
@@ -166,7 +166,7 @@ export const channels = [
     country: "USA",
     provider: 5066,
     logo:
-      "https://raw.githubusercontent.com/karolkozer/planby-demo-resources/master/resources/channel-logos/png/c-channel.png",
+      "https://raw.githubusercontent.com/andremxmx/VUE_EPG/master/logos/channel-logos/png/c-channel.png",
     year: 2002
   },
   {
@@ -176,7 +176,7 @@ export const channels = [
     country: "USA",
     provider: 5380,
     logo:
-      "https://raw.githubusercontent.com/karolkozer/planby-demo-resources/master/resources/channel-logos/png/tm-channel.png",
+      "https://raw.githubusercontent.com/andremxmx/VUE_EPG/master/logos/channel-logos/png/tm-channel.png",
     year: 2002
   },
   {
@@ -186,7 +186,7 @@ export const channels = [
     country: "USA",
     provider: 5380,
     logo:
-      "https://raw.githubusercontent.com/karolkozer/planby-demo-resources/master/resources/channel-logos/png/w-channel.png",
+      "https://raw.githubusercontent.com/andremxmx/VUE_EPG/master/logos/channel-logos/png/w-channel.png",
     year: 2002
   },
   {
@@ -196,7 +196,7 @@ export const channels = [
     country: "USA",
     provider: 703,
     logo:
-      "https://raw.githubusercontent.com/karolkozer/planby-demo-resources/master/resources/channel-logos/png/six-channel.png",
+      "https://raw.githubusercontent.com/andremxmx/VUE_EPG/master/logos/channel-logos/png/six-channel.png",
     year: 2002
   },
   {
@@ -206,7 +206,7 @@ export const channels = [
     country: "USA",
     provider: 8851,
     logo:
-      "https://raw.githubusercontent.com/karolkozer/planby-demo-resources/master/resources/channel-logos/png/nfi-channel.png",
+      "https://raw.githubusercontent.com/andremxmx/VUE_EPG/master/logos/channel-logos/png/nfi-channel.png",
     year: 2002
   },
   {
@@ -216,7 +216,7 @@ export const channels = [
     country: "USA",
     provider: 4447,
     logo:
-      "https://raw.githubusercontent.com/karolkozer/planby-demo-resources/master/resources/channel-logos/png/dragon-channel.png",
+      "https://raw.githubusercontent.com/andremxmx/VUE_EPG/master/logos/channel-logos/png/dragon-channel.png",
     year: 2002
   },
   {
@@ -226,7 +226,7 @@ export const channels = [
     country: "USA",
     provider: 5380,
     logo:
-      "https://raw.githubusercontent.com/karolkozer/planby-demo-resources/master/resources/channel-logos/png/cd-channel.png",
+      "https://raw.githubusercontent.com/andremxmx/VUE_EPG/master/logos/channel-logos/png/cd-channel.png",
     year: 2002
   },
   {
@@ -236,7 +236,7 @@ export const channels = [
     country: "USA",
     provider: 563,
     logo:
-      "https://github.com/karolkozer/planby-demo-resources/blob/master/resources/channel-logos/png/tennis-ball-channel.png?raw=true",
+      "https://github.com/andremxmx/VUE_EPG/blob/master/logos/channel-logos/png/tennis-ball-channel.png?raw=true",
     year: 2002
   },
   {
@@ -246,7 +246,7 @@ export const channels = [
     country: "USA",
     provider: 5380,
     logo:
-      "https://raw.githubusercontent.com/karolkozer/planby-demo-resources/master/resources/channel-logos/png/bowling-channel.png",
+      "https://raw.githubusercontent.com/andremxmx/VUE_EPG/master/logos/channel-logos/png/bowling-channel.png",
     year: 2002
   },
   {
@@ -256,7 +256,7 @@ export const channels = [
     country: "USA",
     provider: 5380,
     logo:
-      "https://raw.githubusercontent.com/karolkozer/planby-demo-resources/master/resources/channel-logos/png/movie-channel.png",
+      "https://raw.githubusercontent.com/andremxmx/VUE_EPG/master/logos/channel-logos/png/movie-channel.png",
     year: 2002
   },
   {
@@ -266,7 +266,7 @@ export const channels = [
     country: "USA",
     provider: 7427,
     logo:
-      "https://raw.githubusercontent.com/karolkozer/planby-demo-resources/master/resources/channel-logos/png/r-channel.png",
+      "https://raw.githubusercontent.com/andremxmx/VUE_EPG/master/logos/channel-logos/png/r-channel.png",
     year: 2002
   },
   {
@@ -276,7 +276,7 @@ export const channels = [
     country: "USA",
     provider: 2764,
     logo:
-      "https://raw.githubusercontent.com/karolkozer/planby-demo-resources/master/resources/channel-logos/png/b-channel.png",
+      "https://raw.githubusercontent.com/andremxmx/VUE_EPG/master/logos/channel-logos/png/b-channel.png",
     year: 2002
   },
   {
@@ -286,7 +286,7 @@ export const channels = [
     country: "USA",
     provider: 9749,
     logo:
-      "https://raw.githubusercontent.com/karolkozer/planby-demo-resources/master/resources/channel-logos/png/five-channel.png",
+      "https://raw.githubusercontent.com/andremxmx/VUE_EPG/master/logos/channel-logos/png/five-channel.png",
     year: 2002
   },
   {
@@ -296,7 +296,7 @@ export const channels = [
     country: "USA",
     provider: 5066,
     logo:
-      "https://raw.githubusercontent.com/karolkozer/planby-demo-resources/master/resources/channel-logos/png/c-channel.png",
+      "https://raw.githubusercontent.com/andremxmx/VUE_EPG/master/logos/channel-logos/png/c-channel.png",
     year: 2002
   },
   {
@@ -306,7 +306,7 @@ export const channels = [
     country: "USA",
     provider: 5380,
     logo:
-      "https://raw.githubusercontent.com/karolkozer/planby-demo-resources/master/resources/channel-logos/png/tm-channel.png",
+      "https://raw.githubusercontent.com/andremxmx/VUE_EPG/master/logos/channel-logos/png/tm-channel.png",
     year: 2002
   },
   {
@@ -316,7 +316,7 @@ export const channels = [
     country: "USA",
     provider: 5380,
     logo:
-      "https://raw.githubusercontent.com/karolkozer/planby-demo-resources/master/resources/channel-logos/png/w-channel.png",
+      "https://raw.githubusercontent.com/andremxmx/VUE_EPG/master/logos/channel-logos/png/w-channel.png",
     year: 2002
   },
   {
@@ -326,7 +326,7 @@ export const channels = [
     country: "USA",
     provider: 703,
     logo:
-      "https://raw.githubusercontent.com/karolkozer/planby-demo-resources/master/resources/channel-logos/png/six-channel.png",
+      "https://raw.githubusercontent.com/andremxmx/VUE_EPG/master/logos/channel-logos/png/six-channel.png",
     year: 2002
   },
   {
@@ -336,7 +336,7 @@ export const channels = [
     country: "USA",
     provider: 8851,
     logo:
-      "https://raw.githubusercontent.com/karolkozer/planby-demo-resources/master/resources/channel-logos/png/nfi-channel.png",
+      "https://raw.githubusercontent.com/andremxmx/VUE_EPG/master/logos/channel-logos/png/nfi-channel.png",
     year: 2002
   },
   {
@@ -346,7 +346,7 @@ export const channels = [
     country: "USA",
     provider: 4447,
     logo:
-      "https://raw.githubusercontent.com/karolkozer/planby-demo-resources/master/resources/channel-logos/png/dragon-channel.png",
+      "https://raw.githubusercontent.com/andremxmx/VUE_EPG/master/logos/channel-logos/png/dragon-channel.png",
     year: 2002
   },
   {
@@ -356,7 +356,7 @@ export const channels = [
     country: "USA",
     provider: 5380,
     logo:
-      "https://raw.githubusercontent.com/karolkozer/planby-demo-resources/master/resources/channel-logos/png/cd-channel.png",
+      "https://raw.githubusercontent.com/andremxmx/VUE_EPG/master/logos/channel-logos/png/cd-channel.png",
     year: 2002
   },
   {
@@ -366,7 +366,7 @@ export const channels = [
     country: "USA",
     provider: 563,
     logo:
-      "https://github.com/karolkozer/planby-demo-resources/blob/master/resources/channel-logos/png/tennis-ball-channel.png?raw=true",
+      "https://github.com/andremxmx/VUE_EPG/blob/master/logos/channel-logos/png/tennis-ball-channel.png?raw=true",
     year: 2002
   },
   {
@@ -376,7 +376,7 @@ export const channels = [
     country: "USA",
     provider: 5380,
     logo:
-      "https://raw.githubusercontent.com/karolkozer/planby-demo-resources/master/resources/channel-logos/png/bowling-channel.png",
+      "https://raw.githubusercontent.com/andremxmx/VUE_EPG/master/logos/channel-logos/png/bowling-channel.png",
     year: 2002
   },
   {
@@ -386,7 +386,7 @@ export const channels = [
     country: "USA",
     provider: 5380,
     logo:
-      "https://raw.githubusercontent.com/karolkozer/planby-demo-resources/master/resources/channel-logos/png/movie-channel.png",
+      "https://raw.githubusercontent.com/andremxmx/VUE_EPG/master/logos/channel-logos/png/movie-channel.png",
     year: 2002
   },
   {
@@ -396,7 +396,7 @@ export const channels = [
     country: "USA",
     provider: 7427,
     logo:
-      "https://raw.githubusercontent.com/karolkozer/planby-demo-resources/master/resources/channel-logos/png/r-channel.png",
+      "https://raw.githubusercontent.com/andremxmx/VUE_EPG/master/logos/channel-logos/png/r-channel.png",
     year: 2002
   },
   {
@@ -406,7 +406,7 @@ export const channels = [
     country: "USA",
     provider: 2764,
     logo:
-      "https://raw.githubusercontent.com/karolkozer/planby-demo-resources/master/resources/channel-logos/png/b-channel.png",
+      "https://raw.githubusercontent.com/andremxmx/VUE_EPG/master/logos/channel-logos/png/b-channel.png",
     year: 2002
   },
   {
@@ -416,7 +416,7 @@ export const channels = [
     country: "USA",
     provider: 9749,
     logo:
-      "https://raw.githubusercontent.com/karolkozer/planby-demo-resources/master/resources/channel-logos/png/five-channel.png",
+      "https://raw.githubusercontent.com/andremxmx/VUE_EPG/master/logos/channel-logos/png/five-channel.png",
     year: 2002
   },
   {
@@ -426,7 +426,7 @@ export const channels = [
     country: "USA",
     provider: 5066,
     logo:
-      "https://raw.githubusercontent.com/karolkozer/planby-demo-resources/master/resources/channel-logos/png/c-channel.png",
+      "https://raw.githubusercontent.com/andremxmx/VUE_EPG/master/logos/channel-logos/png/c-channel.png",
     year: 2002
   },
   {
@@ -436,7 +436,7 @@ export const channels = [
     country: "USA",
     provider: 5380,
     logo:
-      "https://raw.githubusercontent.com/karolkozer/planby-demo-resources/master/resources/channel-logos/png/tm-channel.png",
+      "https://raw.githubusercontent.com/andremxmx/VUE_EPG/master/logos/channel-logos/png/tm-channel.png",
     year: 2002
   },
   {
@@ -446,7 +446,7 @@ export const channels = [
     country: "USA",
     provider: 5380,
     logo:
-      "https://raw.githubusercontent.com/karolkozer/planby-demo-resources/master/resources/channel-logos/png/w-channel.png",
+      "https://raw.githubusercontent.com/andremxmx/VUE_EPG/master/logos/channel-logos/png/w-channel.png",
     year: 2002
   },
   {
@@ -456,7 +456,7 @@ export const channels = [
     country: "USA",
     provider: 703,
     logo:
-      "https://raw.githubusercontent.com/karolkozer/planby-demo-resources/master/resources/channel-logos/png/six-channel.png",
+      "https://raw.githubusercontent.com/andremxmx/VUE_EPG/master/logos/channel-logos/png/six-channel.png",
     year: 2002
   },
   {
@@ -466,7 +466,7 @@ export const channels = [
     country: "USA",
     provider: 8851,
     logo:
-      "https://raw.githubusercontent.com/karolkozer/planby-demo-resources/master/resources/channel-logos/png/nfi-channel.png",
+      "https://raw.githubusercontent.com/andremxmx/VUE_EPG/master/logos/channel-logos/png/nfi-channel.png",
     year: 2002
   },
   {
@@ -476,7 +476,7 @@ export const channels = [
     country: "USA",
     provider: 4447,
     logo:
-      "https://raw.githubusercontent.com/karolkozer/planby-demo-resources/master/resources/channel-logos/png/dragon-channel.png",
+      "https://raw.githubusercontent.com/andremxmx/VUE_EPG/master/logos/channel-logos/png/dragon-channel.png",
     year: 2002
   },
   {
@@ -486,7 +486,7 @@ export const channels = [
     country: "USA",
     provider: 5380,
     logo:
-      "https://raw.githubusercontent.com/karolkozer/planby-demo-resources/master/resources/channel-logos/png/cd-channel.png",
+      "https://raw.githubusercontent.com/andremxmx/VUE_EPG/master/logos/channel-logos/png/cd-channel.png",
     year: 2002
   },
   {
@@ -496,7 +496,7 @@ export const channels = [
     country: "USA",
     provider: 563,
     logo:
-      "https://github.com/karolkozer/planby-demo-resources/blob/master/resources/channel-logos/png/tennis-ball-channel.png?raw=true",
+      "https://github.com/andremxmx/VUE_EPG/blob/master/logos/channel-logos/png/tennis-ball-channel.png?raw=true",
     year: 2002
   },
   {
@@ -506,7 +506,7 @@ export const channels = [
     country: "USA",
     provider: 5380,
     logo:
-      "https://raw.githubusercontent.com/karolkozer/planby-demo-resources/master/resources/channel-logos/png/bowling-channel.png",
+      "https://raw.githubusercontent.com/andremxmx/VUE_EPG/master/logos/channel-logos/png/bowling-channel.png",
     year: 2002
   },
   {
@@ -516,7 +516,7 @@ export const channels = [
     country: "USA",
     provider: 5380,
     logo:
-      "https://raw.githubusercontent.com/karolkozer/planby-demo-resources/master/resources/channel-logos/png/movie-channel.png",
+      "https://raw.githubusercontent.com/andremxmx/VUE_EPG/master/logos/channel-logos/png/movie-channel.png",
     year: 2002
   },
   {
@@ -526,7 +526,7 @@ export const channels = [
     country: "USA",
     provider: 7427,
     logo:
-      "https://raw.githubusercontent.com/karolkozer/planby-demo-resources/master/resources/channel-logos/png/r-channel.png",
+      "https://raw.githubusercontent.com/andremxmx/VUE_EPG/master/logos/channel-logos/png/r-channel.png",
     year: 2002
   },
   {
@@ -536,7 +536,7 @@ export const channels = [
     country: "USA",
     provider: 2764,
     logo:
-      "https://raw.githubusercontent.com/karolkozer/planby-demo-resources/master/resources/channel-logos/png/b-channel.png",
+      "https://raw.githubusercontent.com/andremxmx/VUE_EPG/master/logos/channel-logos/png/b-channel.png",
     year: 2002
   },
   {
@@ -546,7 +546,7 @@ export const channels = [
     country: "USA",
     provider: 9749,
     logo:
-      "https://raw.githubusercontent.com/karolkozer/planby-demo-resources/master/resources/channel-logos/png/five-channel.png",
+      "https://raw.githubusercontent.com/andremxmx/VUE_EPG/master/logos/channel-logos/png/five-channel.png",
     year: 2002
   },
   {
@@ -556,7 +556,7 @@ export const channels = [
     country: "USA",
     provider: 5066,
     logo:
-      "https://raw.githubusercontent.com/karolkozer/planby-demo-resources/master/resources/channel-logos/png/c-channel.png",
+      "https://raw.githubusercontent.com/andremxmx/VUE_EPG/master/logos/channel-logos/png/c-channel.png",
     year: 2002
   },
   {
@@ -566,7 +566,7 @@ export const channels = [
     country: "USA",
     provider: 5380,
     logo:
-      "https://raw.githubusercontent.com/karolkozer/planby-demo-resources/master/resources/channel-logos/png/tm-channel.png",
+      "https://raw.githubusercontent.com/andremxmx/VUE_EPG/master/logos/channel-logos/png/tm-channel.png",
     year: 2002
   },
   {
@@ -576,7 +576,7 @@ export const channels = [
     country: "USA",
     provider: 5380,
     logo:
-      "https://raw.githubusercontent.com/karolkozer/planby-demo-resources/master/resources/channel-logos/png/w-channel.png",
+      "https://raw.githubusercontent.com/andremxmx/VUE_EPG/master/logos/channel-logos/png/w-channel.png",
     year: 2002
   },
   {
@@ -586,7 +586,7 @@ export const channels = [
     country: "USA",
     provider: 703,
     logo:
-      "https://raw.githubusercontent.com/karolkozer/planby-demo-resources/master/resources/channel-logos/png/six-channel.png",
+      "https://raw.githubusercontent.com/andremxmx/VUE_EPG/master/logos/channel-logos/png/six-channel.png",
     year: 2002
   },
   {
@@ -596,7 +596,7 @@ export const channels = [
     country: "USA",
     provider: 8851,
     logo:
-      "https://raw.githubusercontent.com/karolkozer/planby-demo-resources/master/resources/channel-logos/png/nfi-channel.png",
+      "https://raw.githubusercontent.com/andremxmx/VUE_EPG/master/logos/channel-logos/png/nfi-channel.png",
     year: 2002
   },
   {
@@ -606,7 +606,7 @@ export const channels = [
     country: "USA",
     provider: 4447,
     logo:
-      "https://raw.githubusercontent.com/karolkozer/planby-demo-resources/master/resources/channel-logos/png/dragon-channel.png",
+      "https://raw.githubusercontent.com/andremxmx/VUE_EPG/master/logos/channel-logos/png/dragon-channel.png",
     year: 2002
   },
   {
@@ -616,7 +616,7 @@ export const channels = [
     country: "USA",
     provider: 5380,
     logo:
-      "https://raw.githubusercontent.com/karolkozer/planby-demo-resources/master/resources/channel-logos/png/cd-channel.png",
+      "https://raw.githubusercontent.com/andremxmx/VUE_EPG/master/logos/channel-logos/png/cd-channel.png",
     year: 2002
   },
   {
@@ -626,7 +626,7 @@ export const channels = [
     country: "USA",
     provider: 563,
     logo:
-      "https://github.com/karolkozer/planby-demo-resources/blob/master/resources/channel-logos/png/tennis-ball-channel.png?raw=true",
+      "https://github.com/andremxmx/VUE_EPG/blob/master/logos/channel-logos/png/tennis-ball-channel.png?raw=true",
     year: 2002
   },
   {
@@ -636,7 +636,7 @@ export const channels = [
     country: "USA",
     provider: 5380,
     logo:
-      "https://raw.githubusercontent.com/karolkozer/planby-demo-resources/master/resources/channel-logos/png/bowling-channel.png",
+      "https://raw.githubusercontent.com/andremxmx/VUE_EPG/master/logos/channel-logos/png/bowling-channel.png",
     year: 2002
   },
   {
@@ -646,7 +646,7 @@ export const channels = [
     country: "USA",
     provider: 5380,
     logo:
-      "https://raw.githubusercontent.com/karolkozer/planby-demo-resources/master/resources/channel-logos/png/movie-channel.png",
+      "https://raw.githubusercontent.com/andremxmx/VUE_EPG/master/logos/channel-logos/png/movie-channel.png",
     year: 2002
   },
   {
@@ -656,7 +656,7 @@ export const channels = [
     country: "USA",
     provider: 7427,
     logo:
-      "https://raw.githubusercontent.com/karolkozer/planby-demo-resources/master/resources/channel-logos/png/r-channel.png",
+      "https://raw.githubusercontent.com/andremxmx/VUE_EPG/master/logos/channel-logos/png/r-channel.png",
     year: 2002
   },
   {
@@ -666,7 +666,7 @@ export const channels = [
     country: "USA",
     provider: 2764,
     logo:
-      "https://raw.githubusercontent.com/karolkozer/planby-demo-resources/master/resources/channel-logos/png/b-channel.png",
+      "https://raw.githubusercontent.com/andremxmx/VUE_EPG/master/logos/channel-logos/png/b-channel.png",
     year: 2002
   },
   {
@@ -676,7 +676,7 @@ export const channels = [
     country: "USA",
     provider: 9749,
     logo:
-      "https://raw.githubusercontent.com/karolkozer/planby-demo-resources/master/resources/channel-logos/png/five-channel.png",
+      "https://raw.githubusercontent.com/andremxmx/VUE_EPG/master/logos/channel-logos/png/five-channel.png",
     year: 2002
   },
   {
@@ -686,7 +686,7 @@ export const channels = [
     country: "USA",
     provider: 5066,
     logo:
-      "https://raw.githubusercontent.com/karolkozer/planby-demo-resources/master/resources/channel-logos/png/c-channel.png",
+      "https://raw.githubusercontent.com/andremxmx/VUE_EPG/master/logos/channel-logos/png/c-channel.png",
     year: 2002
   },
   {
@@ -696,7 +696,7 @@ export const channels = [
     country: "USA",
     provider: 5380,
     logo:
-      "https://raw.githubusercontent.com/karolkozer/planby-demo-resources/master/resources/channel-logos/png/tm-channel.png",
+      "https://raw.githubusercontent.com/andremxmx/VUE_EPG/master/logos/channel-logos/png/tm-channel.png",
     year: 2002
   },
   {
@@ -706,7 +706,7 @@ export const channels = [
     country: "USA",
     provider: 5380,
     logo:
-      "https://raw.githubusercontent.com/karolkozer/planby-demo-resources/master/resources/channel-logos/png/w-channel.png",
+      "https://raw.githubusercontent.com/andremxmx/VUE_EPG/master/logos/channel-logos/png/w-channel.png",
     year: 2002
   },
   {
@@ -716,7 +716,7 @@ export const channels = [
     country: "USA",
     provider: 703,
     logo:
-      "https://raw.githubusercontent.com/karolkozer/planby-demo-resources/master/resources/channel-logos/png/six-channel.png",
+      "https://raw.githubusercontent.com/andremxmx/VUE_EPG/master/logos/channel-logos/png/six-channel.png",
     year: 2002
   },
   {
@@ -726,7 +726,7 @@ export const channels = [
     country: "USA",
     provider: 8851,
     logo:
-      "https://raw.githubusercontent.com/karolkozer/planby-demo-resources/master/resources/channel-logos/png/nfi-channel.png",
+      "https://raw.githubusercontent.com/andremxmx/VUE_EPG/master/logos/channel-logos/png/nfi-channel.png",
     year: 2002
   },
   {
@@ -736,7 +736,7 @@ export const channels = [
     country: "USA",
     provider: 4447,
     logo:
-      "https://raw.githubusercontent.com/karolkozer/planby-demo-resources/master/resources/channel-logos/png/dragon-channel.png",
+      "https://raw.githubusercontent.com/andremxmx/VUE_EPG/master/logos/channel-logos/png/dragon-channel.png",
     year: 2002
   },
   {
@@ -746,7 +746,7 @@ export const channels = [
     country: "USA",
     provider: 5380,
     logo:
-      "https://raw.githubusercontent.com/karolkozer/planby-demo-resources/master/resources/channel-logos/png/cd-channel.png",
+      "https://raw.githubusercontent.com/andremxmx/VUE_EPG/master/logos/channel-logos/png/cd-channel.png",
     year: 2002
   },
   {
@@ -756,7 +756,7 @@ export const channels = [
     country: "USA",
     provider: 563,
     logo:
-      "https://github.com/karolkozer/planby-demo-resources/blob/master/resources/channel-logos/png/tennis-ball-channel.png?raw=true",
+      "https://github.com/andremxmx/VUE_EPG/blob/master/logos/channel-logos/png/tennis-ball-channel.png?raw=true",
     year: 2002
   },
   {
@@ -766,7 +766,7 @@ export const channels = [
     country: "USA",
     provider: 5380,
     logo:
-      "https://raw.githubusercontent.com/karolkozer/planby-demo-resources/master/resources/channel-logos/png/bowling-channel.png",
+      "https://raw.githubusercontent.com/andremxmx/VUE_EPG/master/logos/channel-logos/png/bowling-channel.png",
     year: 2002
   },
   {
@@ -776,7 +776,7 @@ export const channels = [
     country: "USA",
     provider: 5380,
     logo:
-      "https://raw.githubusercontent.com/karolkozer/planby-demo-resources/master/resources/channel-logos/png/movie-channel.png",
+      "https://raw.githubusercontent.com/andremxmx/VUE_EPG/master/logos/channel-logos/png/movie-channel.png",
     year: 2002
   },
   {
@@ -786,7 +786,7 @@ export const channels = [
     country: "USA",
     provider: 7427,
     logo:
-      "https://raw.githubusercontent.com/karolkozer/planby-demo-resources/master/resources/channel-logos/png/r-channel.png",
+      "https://raw.githubusercontent.com/andremxmx/VUE_EPG/master/logos/channel-logos/png/r-channel.png",
     year: 2002
   },
   {
@@ -796,7 +796,7 @@ export const channels = [
     country: "USA",
     provider: 2764,
     logo:
-      "https://raw.githubusercontent.com/karolkozer/planby-demo-resources/master/resources/channel-logos/png/b-channel.png",
+      "https://raw.githubusercontent.com/andremxmx/VUE_EPG/master/logos/channel-logos/png/b-channel.png",
     year: 2002
   },
   {
@@ -806,7 +806,7 @@ export const channels = [
     country: "USA",
     provider: 9749,
     logo:
-      "https://raw.githubusercontent.com/karolkozer/planby-demo-resources/master/resources/channel-logos/png/five-channel.png",
+      "https://raw.githubusercontent.com/andremxmx/VUE_EPG/master/logos/channel-logos/png/five-channel.png",
     year: 2002
   },
   {
@@ -816,7 +816,7 @@ export const channels = [
     country: "USA",
     provider: 5066,
     logo:
-      "https://raw.githubusercontent.com/karolkozer/planby-demo-resources/master/resources/channel-logos/png/c-channel.png",
+      "https://raw.githubusercontent.com/andremxmx/VUE_EPG/master/logos/channel-logos/png/c-channel.png",
     year: 2002
   },
   {
@@ -826,7 +826,7 @@ export const channels = [
     country: "USA",
     provider: 5380,
     logo:
-      "https://raw.githubusercontent.com/karolkozer/planby-demo-resources/master/resources/channel-logos/png/tm-channel.png",
+      "https://raw.githubusercontent.com/andremxmx/VUE_EPG/master/logos/channel-logos/png/tm-channel.png",
     year: 2002
   },
   {
@@ -836,7 +836,7 @@ export const channels = [
     country: "USA",
     provider: 5380,
     logo:
-      "https://raw.githubusercontent.com/karolkozer/planby-demo-resources/master/resources/channel-logos/png/w-channel.png",
+      "https://raw.githubusercontent.com/andremxmx/VUE_EPG/master/logos/channel-logos/png/w-channel.png",
     year: 2002
   },
   {
@@ -846,7 +846,7 @@ export const channels = [
     country: "USA",
     provider: 703,
     logo:
-      "https://raw.githubusercontent.com/karolkozer/planby-demo-resources/master/resources/channel-logos/png/six-channel.png",
+      "https://raw.githubusercontent.com/andremxmx/VUE_EPG/master/logos/channel-logos/png/six-channel.png",
     year: 2002
   },
   {
@@ -856,7 +856,7 @@ export const channels = [
     country: "USA",
     provider: 8851,
     logo:
-      "https://raw.githubusercontent.com/karolkozer/planby-demo-resources/master/resources/channel-logos/png/nfi-channel.png",
+      "https://raw.githubusercontent.com/andremxmx/VUE_EPG/master/logos/channel-logos/png/nfi-channel.png",
     year: 2002
   },
   {
@@ -866,7 +866,7 @@ export const channels = [
     country: "USA",
     provider: 4447,
     logo:
-      "https://raw.githubusercontent.com/karolkozer/planby-demo-resources/master/resources/channel-logos/png/dragon-channel.png",
+      "https://raw.githubusercontent.com/andremxmx/VUE_EPG/master/logos/channel-logos/png/dragon-channel.png",
     year: 2002
   },
   {
@@ -876,7 +876,7 @@ export const channels = [
     country: "USA",
     provider: 5380,
     logo:
-      "https://raw.githubusercontent.com/karolkozer/planby-demo-resources/master/resources/channel-logos/png/cd-channel.png",
+      "https://raw.githubusercontent.com/andremxmx/VUE_EPG/master/logos/channel-logos/png/cd-channel.png",
     year: 2002
   },
   {
@@ -886,7 +886,7 @@ export const channels = [
     country: "USA",
     provider: 563,
     logo:
-      "https://github.com/karolkozer/planby-demo-resources/blob/master/resources/channel-logos/png/tennis-ball-channel.png?raw=true",
+      "https://github.com/andremxmx/VUE_EPG/blob/master/logos/channel-logos/png/tennis-ball-channel.png?raw=true",
     year: 2002
   },
   {
@@ -896,7 +896,7 @@ export const channels = [
     country: "USA",
     provider: 5380,
     logo:
-      "https://raw.githubusercontent.com/karolkozer/planby-demo-resources/master/resources/channel-logos/png/bowling-channel.png",
+      "https://raw.githubusercontent.com/andremxmx/VUE_EPG/master/logos/channel-logos/png/bowling-channel.png",
     year: 2002
   },
   {
@@ -906,7 +906,7 @@ export const channels = [
     country: "USA",
     provider: 5380,
     logo:
-      "https://raw.githubusercontent.com/karolkozer/planby-demo-resources/master/resources/channel-logos/png/movie-channel.png",
+      "https://raw.githubusercontent.com/andremxmx/VUE_EPG/master/logos/channel-logos/png/movie-channel.png",
     year: 2002
   },
   {
@@ -916,7 +916,7 @@ export const channels = [
     country: "USA",
     provider: 7427,
     logo:
-      "https://raw.githubusercontent.com/karolkozer/planby-demo-resources/master/resources/channel-logos/png/r-channel.png",
+      "https://raw.githubusercontent.com/andremxmx/VUE_EPG/master/logos/channel-logos/png/r-channel.png",
     year: 2002
   },
   {
@@ -926,7 +926,7 @@ export const channels = [
     country: "USA",
     provider: 2764,
     logo:
-      "https://raw.githubusercontent.com/karolkozer/planby-demo-resources/master/resources/channel-logos/png/b-channel.png",
+      "https://raw.githubusercontent.com/andremxmx/VUE_EPG/master/logos/channel-logos/png/b-channel.png",
     year: 2002
   },
   {
@@ -936,7 +936,7 @@ export const channels = [
     country: "USA",
     provider: 9749,
     logo:
-      "https://raw.githubusercontent.com/karolkozer/planby-demo-resources/master/resources/channel-logos/png/five-channel.png",
+      "https://raw.githubusercontent.com/andremxmx/VUE_EPG/master/logos/channel-logos/png/five-channel.png",
     year: 2002
   },
   {
@@ -946,7 +946,7 @@ export const channels = [
     country: "USA",
     provider: 5066,
     logo:
-      "https://raw.githubusercontent.com/karolkozer/planby-demo-resources/master/resources/channel-logos/png/c-channel.png",
+      "https://raw.githubusercontent.com/andremxmx/VUE_EPG/master/logos/channel-logos/png/c-channel.png",
     year: 2002
   },
   {
@@ -956,7 +956,7 @@ export const channels = [
     country: "USA",
     provider: 5380,
     logo:
-      "https://raw.githubusercontent.com/karolkozer/planby-demo-resources/master/resources/channel-logos/png/tm-channel.png",
+      "https://raw.githubusercontent.com/andremxmx/VUE_EPG/master/logos/channel-logos/png/tm-channel.png",
     year: 2002
   },
   {
@@ -966,7 +966,7 @@ export const channels = [
     country: "USA",
     provider: 5380,
     logo:
-      "https://raw.githubusercontent.com/karolkozer/planby-demo-resources/master/resources/channel-logos/png/w-channel.png",
+      "https://raw.githubusercontent.com/andremxmx/VUE_EPG/master/logos/channel-logos/png/w-channel.png",
     year: 2002
   },
   {
@@ -976,7 +976,7 @@ export const channels = [
     country: "USA",
     provider: 703,
     logo:
-      "https://raw.githubusercontent.com/karolkozer/planby-demo-resources/master/resources/channel-logos/png/six-channel.png",
+      "https://raw.githubusercontent.com/andremxmx/VUE_EPG/master/logos/channel-logos/png/six-channel.png",
     year: 2002
   },
   {
@@ -986,7 +986,7 @@ export const channels = [
     country: "USA",
     provider: 8851,
     logo:
-      "https://raw.githubusercontent.com/karolkozer/planby-demo-resources/master/resources/channel-logos/png/nfi-channel.png",
+      "https://raw.githubusercontent.com/andremxmx/VUE_EPG/master/logos/channel-logos/png/nfi-channel.png",
     year: 2002
   },
   {
@@ -996,7 +996,7 @@ export const channels = [
     country: "USA",
     provider: 4447,
     logo:
-      "https://raw.githubusercontent.com/karolkozer/planby-demo-resources/master/resources/channel-logos/png/dragon-channel.png",
+      "https://raw.githubusercontent.com/andremxmx/VUE_EPG/master/logos/channel-logos/png/dragon-channel.png",
     year: 2002
   },
   {
@@ -1006,7 +1006,7 @@ export const channels = [
     country: "USA",
     provider: 5380,
     logo:
-      "https://raw.githubusercontent.com/karolkozer/planby-demo-resources/master/resources/channel-logos/png/cd-channel.png",
+      "https://raw.githubusercontent.com/andremxmx/VUE_EPG/master/logos/channel-logos/png/cd-channel.png",
     year: 2002
   },
   {
@@ -1016,7 +1016,7 @@ export const channels = [
     country: "USA",
     provider: 563,
     logo:
-      "https://github.com/karolkozer/planby-demo-resources/blob/master/resources/channel-logos/png/tennis-ball-channel.png?raw=true",
+      "https://github.com/andremxmx/VUE_EPG/blob/master/logos/channel-logos/png/tennis-ball-channel.png?raw=true",
     year: 2002
   },
   {
@@ -1026,7 +1026,7 @@ export const channels = [
     country: "USA",
     provider: 5380,
     logo:
-      "https://raw.githubusercontent.com/karolkozer/planby-demo-resources/master/resources/channel-logos/png/bowling-channel.png",
+      "https://raw.githubusercontent.com/andremxmx/VUE_EPG/master/logos/channel-logos/png/bowling-channel.png",
     year: 2002
   },
   {
@@ -1036,7 +1036,7 @@ export const channels = [
     country: "USA",
     provider: 5380,
     logo:
-      "https://raw.githubusercontent.com/karolkozer/planby-demo-resources/master/resources/channel-logos/png/movie-channel.png",
+      "https://raw.githubusercontent.com/andremxmx/VUE_EPG/master/logos/channel-logos/png/movie-channel.png",
     year: 2002
   }
 ];
