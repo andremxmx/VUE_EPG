@@ -13,7 +13,7 @@ function App() {
 
   return (
     <div>
-      <div style={{ height: "80vh", width: "100%" }}>
+      <div style={{ height: "100vh", width: "100%", background: "#171923"}}>
         <Epg isLoading={isLoading} {...getEpgProps()}>
           <Layout
             {...getLayoutProps()}
