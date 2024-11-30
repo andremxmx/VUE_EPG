@@ -1,0 +1,69 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/3sat_2019.svg/512px-3sat_2019.svg.png",3sat
+http://20.243.16.116:1234/stream/JoynDE/3sat/master.m3u8?u=strix&p=37b1267a4ff4e12dddfe443810c1f986dcf2f5e96358ab20847d28e3d80883d8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ecXMjNl.png",Arte
+http://20.243.16.116:1234/stream/JoynDE/Arte/master.m3u8?u=strix&p=37b1267a4ff4e12dddfe443810c1f986dcf2f5e96358ab20847d28e3d80883d8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bmkXfIE.png",Bloomberg
+http://20.243.16.116:1234/stream/JoynDE/Bloomberg/master.m3u8?u=strix&p=37b1267a4ff4e12dddfe443810c1f986dcf2f5e96358ab20847d28e3d80883d8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/26s6V64.png",BR Fernsehen Süd
+http://20.243.16.116:1234/stream/JoynDE/BR%20Fernsehen%20S%C3%BCd/master.m3u8?u=strix&p=37b1267a4ff4e12dddfe443810c1f986dcf2f5e96358ab20847d28e3d80883d8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/DMAX_BLACK.svg/512px-DMAX_BLACK.svg.png",DMAX
+http://20.243.16.116:1234/stream/JoynDE/DMAX/master.m3u8?u=strix&p=37b1267a4ff4e12dddfe443810c1f986dcf2f5e96358ab20847d28e3d80883d8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/282zLCo.png",eSPORTS1
+http://20.243.16.116:1234/stream/JoynDE/eSPORTS1/master.m3u8?u=strix&p=37b1267a4ff4e12dddfe443810c1f986dcf2f5e96358ab20847d28e3d80883d8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dGNscPB.png",Hessischer Rundfunk
+http://20.243.16.116:1234/stream/JoynDE/Hessischer%20Rundfunk/master.m3u8?u=strix&p=37b1267a4ff4e12dddfe443810c1f986dcf2f5e96358ab20847d28e3d80883d8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/N24Doku.svg/512px-N24Doku.svg.png",N24 Doku
+http://20.243.16.116:1234/stream/JoynDE/N24%20Doku/master.m3u8?u=strix&p=37b1267a4ff4e12dddfe443810c1f986dcf2f5e96358ab20847d28e3d80883d8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/df3yY8W.png",NDR Hamburg
+http://20.243.16.116:1234/stream/JoynDE/NDR%20Hamburg/master.m3u8?u=strix&p=37b1267a4ff4e12dddfe443810c1f986dcf2f5e96358ab20847d28e3d80883d8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Logo_NDR_Fernsehen_2017.svg/512px-Logo_NDR_Fernsehen_2017.svg.png",NDR Niedersachsen
+http://20.243.16.116:1234/stream/JoynDE/NDR%20Niedersachsen/master.m3u8?u=strix&p=37b1267a4ff4e12dddfe443810c1f986dcf2f5e96358ab20847d28e3d80883d8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Logo_NDR_Fernsehen_2017.svg/512px-Logo_NDR_Fernsehen_2017.svg.png",NDR Schleswig-Holstein
+http://20.243.16.116:1234/stream/JoynDE/NDR%20Schleswig-Holstein/master.m3u8?u=strix&p=37b1267a4ff4e12dddfe443810c1f986dcf2f5e96358ab20847d28e3d80883d8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c0/NickelodeonNZ-2010.svg/512px-NickelodeonNZ-2010.svg.png",Nick
+http://20.243.16.116:1234/stream/JoynDE/Nick/master.m3u8?u=strix&p=37b1267a4ff4e12dddfe443810c1f986dcf2f5e96358ab20847d28e3d80883d8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/af/ONE_TV_2021_logo.png",ONE
+http://20.243.16.116:1234/stream/JoynDE/ONE/master.m3u8?u=strix&p=37b1267a4ff4e12dddfe443810c1f986dcf2f5e96358ab20847d28e3d80883d8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/T1532t9.png",Phoenix
+http://20.243.16.116:1234/stream/JoynDE/Phoenix/master.m3u8?u=strix&p=37b1267a4ff4e12dddfe443810c1f986dcf2f5e96358ab20847d28e3d80883d8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/ProSieben_FUN_Logo_2021.svg/512px-ProSieben_FUN_Logo_2021.svg.png",ProSieben FUN
+http://20.243.16.116:1234/stream/JoynDE/ProSieben%20FUN/master.m3u8?u=strix&p=37b1267a4ff4e12dddfe443810c1f986dcf2f5e96358ab20847d28e3d80883d8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wsTOcuX.png",Radio Bremen
+http://20.243.16.116:1234/stream/JoynDE/Radio%20Bremen/master.m3u8?u=strix&p=37b1267a4ff4e12dddfe443810c1f986dcf2f5e96358ab20847d28e3d80883d8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Tv.berlin_2009.svg/512px-Tv.berlin_2009.svg.png",RBB Berlin
+http://20.243.16.116:1234/stream/JoynDE/RBB%20Berlin/master.m3u8?u=strix&p=37b1267a4ff4e12dddfe443810c1f986dcf2f5e96358ab20847d28e3d80883d8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aXFZnUY.png",RBB Brandenburg
+http://20.243.16.116:1234/stream/JoynDE/RBB%20Brandenburg/master.m3u8?u=strix&p=37b1267a4ff4e12dddfe443810c1f986dcf2f5e96358ab20847d28e3d80883d8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4wMZ8Em.png",RiC
+http://20.243.16.116:1234/stream/JoynDE/RiC/master.m3u8?u=strix&p=37b1267a4ff4e12dddfe443810c1f986dcf2f5e96358ab20847d28e3d80883d8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/SAT.1_emotions_Logo_2019.png/512px-SAT.1_emotions_Logo_2019.png",SAT.1 emotions
+http://20.243.16.116:1234/stream/JoynDE/SAT.1%20emotions/master.m3u8?u=strix&p=37b1267a4ff4e12dddfe443810c1f986dcf2f5e96358ab20847d28e3d80883d8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/X5X3tKC.png",Sport1
+http://20.243.16.116:1234/stream/JoynDE/Sport1/master.m3u8?u=strix&p=37b1267a4ff4e12dddfe443810c1f986dcf2f5e96358ab20847d28e3d80883d8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/X5X3tKC.png",SPORT1+
+http://20.243.16.116:1234/stream/JoynDE/SPORT1+/master.m3u8?u=strix&p=37b1267a4ff4e12dddfe443810c1f986dcf2f5e96358ab20847d28e3d80883d8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/92XNBmr.png",SR
+http://20.243.16.116:1234/stream/JoynDE/SR/master.m3u8?u=strix&p=37b1267a4ff4e12dddfe443810c1f986dcf2f5e96358ab20847d28e3d80883d8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/SWR_Logo_2023.svg/512px-SWR_Logo_2023.svg.png",SWR Baden-Württemberg
+http://20.243.16.116:1234/stream/JoynDE/SWR%20Baden-W%C3%BCrttemberg/master.m3u8?u=strix&p=37b1267a4ff4e12dddfe443810c1f986dcf2f5e96358ab20847d28e3d80883d8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LH0Gctv.png",Tagesschau 24
+http://20.243.16.116:1234/stream/JoynDE/Tagesschau%2024/master.m3u8?u=strix&p=37b1267a4ff4e12dddfe443810c1f986dcf2f5e96358ab20847d28e3d80883d8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Tele_5_Logo_2021.svg/512px-Tele_5_Logo_2021.svg.png",Tele 5
+http://20.243.16.116:1234/stream/JoynDE/Tele%205/master.m3u8?u=strix&p=37b1267a4ff4e12dddfe443810c1f986dcf2f5e96358ab20847d28e3d80883d8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/512px-TLC_Logo.svg.png",TLC
+http://20.243.16.116:1234/stream/JoynDE/TLC/master.m3u8?u=strix&p=37b1267a4ff4e12dddfe443810c1f986dcf2f5e96358ab20847d28e3d80883d8
+#EXTINF:-1,WDR Aachen
+http://20.243.16.116:1234/stream/JoynDE/WDR%20Aachen/master.m3u8?u=strix&p=37b1267a4ff4e12dddfe443810c1f986dcf2f5e96358ab20847d28e3d80883d8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qn5Vmdu.png",WDR Bielefeld
+http://20.243.16.116:1234/stream/JoynDE/WDR%20Bielefeld/master.m3u8?u=strix&p=37b1267a4ff4e12dddfe443810c1f986dcf2f5e96358ab20847d28e3d80883d8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qn5Vmdu.png",WDR Duisburg
+http://20.243.16.116:1234/stream/JoynDE/WDR%20Duisburg/master.m3u8?u=strix&p=37b1267a4ff4e12dddfe443810c1f986dcf2f5e96358ab20847d28e3d80883d8
+#EXTINF:-1,WDR Essen
+http://20.243.16.116:1234/stream/JoynDE/WDR%20Essen/master.m3u8?u=strix&p=37b1267a4ff4e12dddfe443810c1f986dcf2f5e96358ab20847d28e3d80883d8
+#EXTINF:-1,WDR Köln
+http://20.243.16.116:1234/stream/JoynDE/WDR%20K%C3%B6ln/master.m3u8?u=strix&p=37b1267a4ff4e12dddfe443810c1f986dcf2f5e96358ab20847d28e3d80883d8
+#EXTINF:-1,WDR Siegen
+http://20.243.16.116:1234/stream/JoynDE/WDR%20Siegen/master.m3u8?u=strix&p=37b1267a4ff4e12dddfe443810c1f986dcf2f5e96358ab20847d28e3d80883d8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qn5Vmdu.png",WDR Wuppertal
+http://20.243.16.116:1234/stream/JoynDE/WDR%20Wuppertal/master.m3u8?u=strix&p=37b1267a4ff4e12dddfe443810c1f986dcf2f5e96358ab20847d28e3d80883d8
